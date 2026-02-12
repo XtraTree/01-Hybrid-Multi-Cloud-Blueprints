@@ -414,9 +414,9 @@ Every pattern is evaluated against these principles:
 **This repo answers: 🎯 WHERE should your workloads live?**
 
 For **HOW to secure WHERE**:
-- 🛡️ [REPO 2: Network Modernization](../02-Network-Modernization) - Network-layer security
-- 🔐 [REPO 3: Zero-Trust Security](../03-Zero-Trust-Security) - Identity-layer security
-- ⚖️ [REPO 4: Cloud-Native Governance](../04-Cloud-Native-Governance) - Policy enforcement
+- 🛡️ [REPO 2: Network Modernization](https://github.com/XtraTree/02-Network-Modernization) - Network-layer security
+- 🔐 [REPO 3: Zero-Trust Security](https://github.com/XtraTree/03-Zero-Trust-Security) - Identity-layer security
+- ⚖️ [REPO 4: Cloud-Native Governance](https://github.com/XtraTree/04-Cloud-Native-Governance) - Policy enforcement
 
 **Example workflow**:
 ```
