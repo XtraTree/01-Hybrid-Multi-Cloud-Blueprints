@@ -476,7 +476,7 @@ For **HOW to secure WHERE**:
 
 **If you want to understand how this fits with network/identity/governance**:
 1. 🔗 See [How This Repo Connects](#-how-this-repo-connects-to-the-other-repos)
-2. 🛡️ Jump to [REPO 2](../02-Network-Modernization), [REPO 3](../03-Zero-Trust-Security), or [REPO 4](../04-Cloud-Native-Governance)
+2. 🛡️ Jump to [REPO 2](https://github.com/XtraTree/02-Network-Modernization), [REPO 3](https://github.com/XtraTree/03-Zero-Trust-Security), or [REPO 4](https://github.com/XtraTree/04-Cloud-Native-Governance)
 
 </div>
 
