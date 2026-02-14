@@ -319,7 +319,7 @@ Cloud cost analysis → Repatriation assessment → Modern infra design → Migr
 ```
 On-Premises                    Cloud
 ┌─────────────────┐           ┌──────────────────┐
-│ EMR Database    │◄──VPN────►│ Web Frontend     │
+│ EMR Database    │◄─VPN/PL──►│ Web Frontend     │
 │ (HIPAA)         │           │ (HIPAA Compliant)│
 │ Primary         │           │ DR Replica       │
 └─────────────────┘           └──────────────────┘
