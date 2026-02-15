@@ -1,4 +1,4 @@
-# 🏗️ Hybrid Multi-Cloud Blueprints
+# ☁️ Hybrid Multi-Cloud Blueprints
 
 > **Strategic Question**: When should you use cloud, and when should you keep systems on-premises?
 
