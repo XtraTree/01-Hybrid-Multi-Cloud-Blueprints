@@ -4,7 +4,6 @@
 
 [![Architecture](https://img.shields.io/badge/Architecture-Enterprise-blue)](.)
 [![Cloud Strategy](https://img.shields.io/badge/Cloud%20Strategy-Multi%20Pattern-purple)](.)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
 
 ---
