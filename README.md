@@ -316,12 +316,13 @@ Cloud cost analysis → Repatriation assessment → Modern infra design → Migr
 
 ### Hybrid Pattern: Sensitive Data On-Prem
 ```
-On-Premises                    Cloud
-┌─────────────────┐           ┌──────────────────┐
-│ EMR Database    │◄─PL/VPN──►│ Web Frontend     │
+
+On-Premises                           Cloud
+┌─────────────────┐           ┌───────────────-──┐
+│ EMR Database    │◄===PL====►│ Web Frontend     │
 │ (HIPAA)         │           │ (HIPAA Compliant)│
-│ Primary         │           │ DR Replica       │
-└─────────────────┘           └──────────────────┘
+│ Primary         │◄===VPN===►│ DR Replica       │
+└─────────────────┘           └──────────────-───┘
 ```
 
 ### Multi-Cloud Pattern: Vendor Flexibility
